@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "docs:dev": "vuepress dev docs",
+        "docs:build": "vuepress build docs"
+    },
+    "devDependencies": {
+        "vuepress-plugin-comment1": "^1.31.0-beta.1"
+    }
+}

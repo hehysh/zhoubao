@@ -1,2 +1,0 @@
-* [En](/)
-* [chinese](/zhoubao/)
